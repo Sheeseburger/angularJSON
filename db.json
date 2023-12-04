@@ -1,0 +1,8 @@
+{
+    "products":[
+        { "id": 1, "price": 200, "title": "Tomatoes goood", "description": "Tomatoes" },
+        { "id": 2, "price": 5, "title": "Just air", "description": "Fresh air" },
+        { "id": 3, "price": 10000, "title": "Golden apple", "description": "Strange apple" }
+      ]
+    
+}
